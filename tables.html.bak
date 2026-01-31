@@ -1,0 +1,105 @@
+<html>
+<head>
+<title> GRADES </TITLE>
+<style>
+.table
+{
+display:table;
+}
+.title
+{
+display:table-caption;
+text-align:center;
+font-weight:bold;
+font-size:40px;
+}
+.rowheading
+{
+display:table-row;
+text-align:center;
+font-weight:bold;
+}
+.row
+{
+display:table-row;
+}
+.cell
+{
+display:table-cell;
+border:solid 2px blue;
+padding-left:5px;
+}
+</style>
+</head>
+<body>
+<div class="table">
+<div class="title">
+	<p>GRADES</p>
+</div>
+
+<div class="rowheading">
+
+<div class="cell">
+	<p>ROLL.NO</p>
+</div>
+
+<div class="cell">
+	<p>NAMES</p>
+</div>
+
+<div class="cell">
+	<p>GRADES</p>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="cell">
+	<p>1</p>
+</div>
+
+<div class="cell">
+	<p>ABHI</p>
+</div>
+
+<div class="cell">
+	<p>A</p>
+</div>
+
+</div>
+
+<div class="row">
+
+<div class="cell">
+	<p>2</p>
+</div>
+
+<div class="cell">
+	<p>BALA</p>
+</div>
+
+<div class="cell">
+	<p>B</p>
+</div>
+
+</div>
+
+<div class="row">
+<div class="cell">
+	<p>3</p>
+</div>
+
+<div class="cell">
+	<p>RAM</p>
+</div>
+
+<div class="cell">
+	<p>A</p>
+</div>
+ </div>
+ 
+</div>
+</body>
+</html>
+  
